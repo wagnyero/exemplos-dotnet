@@ -1,0 +1,10 @@
+c:\users\caroline paradela\documents\visual studio 2013\Projects\PJFinanceiro\DAL\bin\Debug\DAL.dll
+c:\users\caroline paradela\documents\visual studio 2013\Projects\PJFinanceiro\DAL\bin\Debug\DAL.pdb
+c:\users\caroline paradela\documents\visual studio 2013\Projects\PJFinanceiro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\caroline paradela\documents\visual studio 2013\Projects\PJFinanceiro\DAL\obj\Debug\DAL.dll
+c:\users\caroline paradela\documents\visual studio 2013\Projects\PJFinanceiro\DAL\obj\Debug\DAL.pdb
+C:\Users\coti\Downloads\PJFinanceiro\DAL\bin\Debug\DAL.dll
+C:\Users\coti\Downloads\PJFinanceiro\DAL\bin\Debug\DAL.pdb
+C:\Users\coti\Downloads\PJFinanceiro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\coti\Downloads\PJFinanceiro\DAL\obj\Debug\DAL.dll
+C:\Users\coti\Downloads\PJFinanceiro\DAL\obj\Debug\DAL.pdb

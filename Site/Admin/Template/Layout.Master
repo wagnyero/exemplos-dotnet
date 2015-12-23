@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Layout.master.cs" Inherits="Site.Admin.Template.Layout" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="../../Style/jquery-ui.css" rel="stylesheet" type="text/css" media="all" />
+    <script src="../../Style/js/jquery-1.10.2.js" type="text/javascript"></script>
+    <script src="../../Style/js/jquery-ui.js" type="text/javascript"></script>
+    <script src="../../Style/js/jquery-ui.datepicker-pt-BR.js" type="text/javascript"></script>
+    <script src="../../Style/js/estilo.js" type="text/javascript"></script>
+    <link href="../../Style/estilo.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form" runat="server">
+        <div id="container">
+            <div id="topo">
+
+                <div id="menu">
+                    <a href="/Admin/Default.aspx">Home</a>
+                    <a href="/Admin/Pages/Pagamentos.aspx">Pagamentos</a>
+                    <a href="/Admin/Pages/Receitas.aspx">Recebimentos</a>
+                    <a href="/Admin/Pages/Relatorios.aspx">Relatórios</a>
+                    <a href="#">Contato</a>
+                </div>
+
+                <div id="logo">
+                    <a href="/Default.aspx"><img src="/Style/img/logo.jpg" /></a>
+                </div>
+            </div>
+        
+            <div id="banner">
+                <img src="/Style/img/banner.jpg" />
+            </div>
+        
+            <div id="conteudo">
+                <asp:ContentPlaceHolder ID="content" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+            <div id="coluna">
+                <asp:Label ID="lblNome" runat="server" CssClass="format-label" />
+                <br /><br />
+
+                <asp:Button ID="btnSair" runat="server" Text="Sair" OnClick="btnSair_Click" />
+            </div>
+
+            <div id="rodape">
+                Developer and Design: Wagner Lamoglia |
+                Contact: wagnyero@gmail.com
+            </div>
+        </div>
+    </form>
+</body>
+</html>

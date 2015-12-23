@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Layout.master.cs" Inherits="Site.Template.Layout" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Controle Financeiro</title>
+    <link href="../Style/estilo.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="container">
+        <div id="topo">
+
+            <div id="menu">
+                <a href="../Default.aspx">Home</a>
+                <a href="../Pages/Cadastro.aspx">Cadastre-se</a>
+                <a href="#">Serviços</a>
+                <a href="#">Artigos</a>
+                <a href="#">Contato</a>
+            </div>
+
+            <div id="logo">
+                <a href="../Default.aspx"><img src="../Style/img/logo.jpg" /></a>
+            </div>
+        </div>
+        
+        <div id="banner">
+            <img src="../Style/img/banner.jpg" alt="Estar bonita é estar bem!" />
+        </div>
+
+        <div id="conteudo">
+            <asp:ContentPlaceHolder ID="content" runat="server">
+            </asp:ContentPlaceHolder>
+
+        <div id="rodape">
+            Developer and Design: Wagner Lamoglia |
+            Contact: wagnyero@gmail.com
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,99 @@
+﻿body {
+    font-family:"trebuchet ms";
+    border:0;
+}
+
+h3, h4{
+	margin:0;
+	color:#9877DB;
+	font-size:23px;
+}
+
+h4{
+    font-size:17px;
+}
+
+#container {
+    width: 960px;
+    height: auto;
+    display: table;
+    margin: auto;
+}
+
+#topo {
+    width: 960px;
+    height:70px;
+    background-image:url(img/topo.png);
+    float: left;
+}
+
+#logo {
+    width: 100px;
+    height:154px;
+    position: relative;
+    top: 0;
+    left: 10px;
+}
+
+#menu{
+    float:right;
+}
+
+#menu a{
+    color:#FFFFFF;
+    text-decoration:none;
+    display:inline-block;
+    height:70px;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    background-color: #BBA6E7;
+}
+
+#banner{
+    width: 960px;
+    height:334px;
+    float: left;
+    border-bottom: 10px solid #9877DB;
+    margin-bottom: 30px;
+}
+
+#conteudo{
+    width: 755px;
+    min-height:185px;
+    float: left;
+    border-right: solid 1px #9877DB;
+    padding-right:20px;
+}
+
+#coluna{
+    width: 164px;
+    height:185px;
+    float: right;
+    padding-left: 20px;
+
+}
+
+#coluna form{
+    font-size: 12px;
+    margin-top: 10px;
+    color: #9877DB;
+}
+
+#rodape{
+    width:940px;
+    height:auto;
+    background-color: #9877DB;
+    float: left;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: right;
+}
+
+.format-label {
+    color:#9877DB;
+	font-size:15px;
+}

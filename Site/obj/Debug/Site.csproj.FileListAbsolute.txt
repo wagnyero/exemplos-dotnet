@@ -1,0 +1,17 @@
+c:\users\caroline paradela\documents\visual studio 2013\Projects\PJFinanceiro\Site\bin\Site.dll.config
+c:\users\caroline paradela\documents\visual studio 2013\Projects\PJFinanceiro\Site\bin\Site.dll
+c:\users\caroline paradela\documents\visual studio 2013\Projects\PJFinanceiro\Site\bin\Site.pdb
+c:\users\caroline paradela\documents\visual studio 2013\Projects\PJFinanceiro\Site\obj\Debug\Site.dll
+c:\users\caroline paradela\documents\visual studio 2013\Projects\PJFinanceiro\Site\obj\Debug\Site.pdb
+c:\users\caroline paradela\documents\visual studio 2013\Projects\PJFinanceiro\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\Caroline Paradela\Documents\Visual Studio 2013\Projects\PJFinanceiro\Site\bin\DAL.dll
+C:\Users\Caroline Paradela\Documents\Visual Studio 2013\Projects\PJFinanceiro\Site\bin\DAL.pdb
+C:\Users\coti\Downloads\PJFinanceiro\Site\bin\Site.dll
+C:\Users\coti\Downloads\PJFinanceiro\Site\bin\Site.pdb
+C:\Users\coti\Downloads\PJFinanceiro\Site\bin\DAL.dll
+C:\Users\coti\Downloads\PJFinanceiro\Site\bin\DAL.pdb
+C:\Users\coti\Downloads\PJFinanceiro\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\coti\Downloads\PJFinanceiro\Site\obj\Debug\Site.dll
+C:\Users\coti\Downloads\PJFinanceiro\Site\obj\Debug\Site.pdb
+C:\Users\Caroline Paradela\Documents\Visual Studio 2013\Projects\PJFinanceiro\Site\obj\Debug\RdlCompile.cache
+C:\Users\Caroline Paradela\Documents\Visual Studio 2013\Projects\PJFinanceiro\Site\obj\Debug\RdlCompile.compiled
